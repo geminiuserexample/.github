@@ -11,7 +11,7 @@
 
 ### 📊 GitHub Stats
 
-https://github-readme-stats.vercel.app/api?username=geminiuserexample
+Soon...
 -----
 
 ### 📫 Как со мной связаться
